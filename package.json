@@ -1,0 +1,24 @@
+{
+  "name": "dep-breaking-changes",
+  "version": "1.0.0",
+  "description": "Track breaking changes and deprecations in dependencies",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "scan": "node src/cli.js scan"
+  },
+  "keywords": [
+    "breaking",
+    "changes",
+    "deprecation",
+    "migration"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "ora": "^7.0.1"
+  }
+}
