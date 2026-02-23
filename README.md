@@ -1,5 +1,12 @@
 # dep-breaking-changes
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/dep-breaking-changes/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/dep-breaking-changes/actions)
+![License](https://img.shields.io/github/license/yksanjo/dep-breaking-changes)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/dep-breaking-changes)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/dep-breaking-changes)
+
 ## Detailed Description
 
 dep-breaking-changes is maintained as an industry-grade software project with production-ready engineering practices.  
